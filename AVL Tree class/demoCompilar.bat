@@ -1,0 +1,1 @@
+javac -Xlint -classpath .;.\lib\junit-4.4.jar .\fuentes\es\ubu\lsi\util\Demo.java .\fuentes\es\ubu\lsi\util\Nodo.java .\fuentes\es\ubu\lsi\util\Nada.java  

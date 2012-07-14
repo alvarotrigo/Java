@@ -1,0 +1,2 @@
+set CLASSPATH=.\fuentes;.\tests;.\lib\junit-4.5.jar
+javadoc -private -d .\doc -linkoffline http://java.sun.com/j2se/1.5.0/doc/api .\doc -sourcepath fuentes;tests -author -subpackages es.ubu.lsi.util: es.ubu.lsi.util
